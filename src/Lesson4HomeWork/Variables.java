@@ -4,7 +4,7 @@ public class Variables {
     public static void main(String[] args){
       long currentWorldPopulation = 7_811_080_815L;
       int carsProducedThisYear = 55_235_358;
-      String firstLetterInAlphabet = "A";
+      char firstLetterInAlphabet = 'A';
       boolean javaIsAmazing = true;
       double Pi = 3.12159;
       System.out.println("Current World Population is " + currentWorldPopulation);
