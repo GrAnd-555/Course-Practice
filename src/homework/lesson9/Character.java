@@ -13,6 +13,6 @@ public class Character {
             if (input.charAt(i) == search)
                 count++;
         }
-        ystem.out.println("The Character '" + search + "' appears " + count + " times.");
+        System.out.println("The Character '" + search + "' appears " + count + " times.");
     }
 }

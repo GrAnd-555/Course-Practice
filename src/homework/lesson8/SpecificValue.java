@@ -13,7 +13,9 @@ public class SpecificValue {
             //for (int i = 0; i < arrayList.length; i++) {
             if (checkValue == intermediate) {
                 response = intermediate;
+
             }
+            break;
         }
         if (response != 0) {
             System.out.println("Introduced value " + checkValue + " is  contained in array.");
