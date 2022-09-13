@@ -1,4 +1,4 @@
-package Lesson4HomeWork;
+package homework.Lesson4;
 
 public class Variables {
     public static void main(String[] args){

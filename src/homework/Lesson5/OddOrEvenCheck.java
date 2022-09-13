@@ -1,4 +1,4 @@
-package Lesson5HomeWork;
+package homework.Lesson5;
 import java.util.Scanner;
 
 public class OddOrEvenCheck {
